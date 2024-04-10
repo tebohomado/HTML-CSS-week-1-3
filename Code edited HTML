@@ -60,7 +60,7 @@
 
 
 
-        <h3>Customer details</h3>
+        <h3>Did you see a car you like?</h3>
         <form>
 
             <label>Name</label> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -78,15 +78,19 @@
         </form>
         <h4>Chat to us on WhatsApp</h4>
         <a id="WA" href="https://wa.me/27658765639" target="_blank">
-            <img src="WA1.png" alt="Your Logo" width="50" height="50">
+            <img src="WA1.png" alt="Your Logo" width="50" height="50"><br>
         </a>
+        <h4>OR</h4>
 
+        <img src="phone.jpg" alt="phone" width="20" height="20">021 135 6946 <br>
+        <img src="vector-mail-icon.jpg" alt="mail" width="20" height="20"> motor-empire@oulook.com
         <p><i>
                 <div class="footer">Visit our car dealership at 97 Durham Avenue,Salt River, Cape Town </i>
         </p>© All Rights Reserved<br><BR></BR>
 
-        about-us&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contact-us&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        >
+        
+        
+       
     </div>
 </body>
 
