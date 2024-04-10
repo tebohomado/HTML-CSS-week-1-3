@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="Style.css" />
+    <title>Motor-Empire</title>
+</head>
+
+<body>
+
+    <div id="body">
+
+        <div id="header">
+            <h1><u>Motor-Empire</u></h1>
+
+            <h3><i>Unlock your adventure, Your journey starts here</i></h3>
+            <div class="buttons">
+                <button class="button">ABOUT US</button>
+                <button class="button">SERVICES</button>
+                <button class="button">CONTACT US</button>
+            </div>
+        </div>
+     
+        <h3 class="summary">Choose from a wide range of cars. See what great deals we have! Over 80 000 cars. Quick and Easy. Great Deals!
+            Picture yourself cruising through town behind the wheel of a car that fits your personality and your budget perfectly
+        </h3>
+
+        <h4 class="est"> <i> ESTABLISHED IN MARCH 2024</i></h4>
+
+        <img class="car1" src="car1.png" alt="demo car Picture" height="400" width="400">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img class="car2" src="car2.jpg" alt="demo car Picture" height="400" width="400">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img class="car3" src="car3.jpg" alt="demo car Picture" height="400" width="400">
+
+        <h3>OUR VISION </h3>
+        <p>Our vision is to be the best automotive organization in Cape Town, where we exceed customer expectations!</p>
+
+        <h3>OUR MISSION</h3>
+        <p>Our mission is to simply be the best in every area of our business.
+            We will accomplish this by providing the most exceptional customer services</p>
+
+        <h3>WHY CHOOSE US ?</h3>
+        <p>
+            <i>
+                - Finance made Easy
+                - Wide variety of cars
+                - Trusted by all
+                - Best prices
+                - Affordable rental vehicles
+            </i>
+        </p>
+
+        <h3>TRADING HOURS</h3>
+        Monday to Friday 07:30 - 17:00 <br> Saturdays 08:00 - 12:00 <br> Sundays Closed <br> Public Holidays Closed
+        <br>
+
+        <H3>CAR BRANDS</H3>
+
+
+        <img id="cars" src="All Car Brands List, Names and Car Logos By Country.jpg" alt="CAR BRANDS" height="400" width="800">
+
+
+
+        <h3>Customer details</h3>
+        <form>
+
+            <label>Name</label> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <input type="text" name="name"> <br>
+
+            <label>email</label> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <input type="text" name="email"> <br>
+
+            <label>contact number</label>
+            <input type="tel" name="tel"> <br><br>
+
+            <input type="submit">
+
+
+        </form>
+        <h4>Chat to us on WhatsApp</h4>
+        <a id="WA" href="https://wa.me/27658765639" target="_blank">
+            <img src="WA1.png" alt="Your Logo" width="50" height="50">
+        </a>
+
+        <p><i>
+                <div class="footer">Visit our car dealership at 97 Durham Avenue,Salt River, Cape Town </i>
+        </p>© All Rights Reserved<br><BR></BR>
+
+        about-us&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contact-us&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        >
+    </div>
+</body>
+
+</html>
